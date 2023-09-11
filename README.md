@@ -44,4 +44,4 @@ Online Image Processing Tool is a web-based application that allows users to eas
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENCE](./LICENCE) file for details.

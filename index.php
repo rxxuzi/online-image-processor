@@ -42,7 +42,7 @@ $converted_image = 'tmp/converted_' . basename($uploaded_image);
 <h1>Online Image Processor</h1>
 <form action="convert.php" method="post" enctype="multipart/form-data">
     <div class="file-upload">
-        <label for="image" class="file-upload_label">Select image:</label>
+        <label for="image" class="file-upload_label">Select image</label>
         <input type="file" name="image" id="image" class="file-upload_input" required>
     </div>
     <div class="select-container">
